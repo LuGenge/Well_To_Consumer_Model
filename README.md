@@ -8,6 +8,7 @@ Green ammonia, Green commodities, Hydrogen derivatives, Supply chains, Energy tr
 
 ### Links: 
 Working paper:
+Data and Results: https://doi.org/10.5281/zenodo.15796193
 
 ### Citing us
 
