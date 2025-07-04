@@ -7,7 +7,7 @@
 Green ammonia, Green commodities, Hydrogen derivatives, Supply chains, Energy transition, Supply cost analysis
 
 ### Links: 
-Working paper:
+Working paper: https://doi.org/10.48550/arXiv.2507.02412
 Data and Results: https://doi.org/10.5281/zenodo.15796193
 
 ### Citing us
