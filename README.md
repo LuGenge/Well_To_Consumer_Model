@@ -17,5 +17,13 @@ The Well-to-Consumer model used in our paper is free: you can access, modify and
 If you use the model or its components for your research, we would appreciate it if you
 would cite us as follows:
 ```
-To Add
+@misc{genge2025greenammoniatechnoeconomicsupply,
+      title={Green Ammonia: A Techno-Economic Supply Chain Optimization}, 
+      author={Lucien Genge and Felix Müsgens},
+      year={2025},
+      eprint={2507.02412},
+      archivePrefix={arXiv},
+      primaryClass={econ.GN},
+      url={https://arxiv.org/abs/2507.02412}, 
+}
 ```
